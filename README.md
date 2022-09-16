@@ -18,3 +18,6 @@ The aim of this project to post in SubReddit via Python script
 Downlaod the NoteBook and follow the Instrcution to create your SubReddit Poster
 
 If you feel this useful kindlt give a Star :)
+
+
+Note: This is just a Education purpose NoteBook
